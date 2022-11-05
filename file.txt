@@ -1,1 +1,2 @@
 This is made while learning git and github
+This is the second line to check status
